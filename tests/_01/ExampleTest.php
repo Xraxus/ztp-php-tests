@@ -3,9 +3,9 @@
  * Example test.
  */
 
-namespace Test;
+namespace Test\_01;
 
-use App\Example;
+use App\_01\Example;
 use PHPUnit\Framework\TestCase;
 
 /**

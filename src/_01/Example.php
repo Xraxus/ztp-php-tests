@@ -3,7 +3,7 @@
  * Example.
  */
 
-namespace App;
+namespace App\_01;
 
 /**
  * Class Example.
